@@ -1,4 +1,4 @@
-# Lista de Exercícios
+# Lista de Exercicios
 
 Este repositório contém uma lista de exercícios práticos desenvolvidos com **HTML** e **JavaScript**, com o objetivo de treinar lógica de programação, manipulação de dados e interação com o usuário por meio de páginas web simples.
 
